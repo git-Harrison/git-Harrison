@@ -3,6 +3,7 @@
 
 <div align="center">
 ## 👩‍💻 About me
+  
 웹 프론트엔드 개발자
 
 ## ⭐ Platforms & Languages ⭐
@@ -17,12 +18,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 📚 Studying
+## 📚 Studying 📚
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-## 🔧 Tools
+## 🔧 Tools 🔧
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
