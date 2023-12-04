@@ -7,9 +7,7 @@
 
 <div align="center">
   <h2>👩‍💻 About me</h2>
-  <p>ui 색에 관심이 많은 ui 개발자 입니다. <br>
-  ui 색들을 데이터로 손쉽게 업데이트 할 수 있게 돕고 싶어 공부중입니다. <br>
-  스타일드 컴포넌트로 직접적인 관심이 많습니다.</p>
+  <p>웹 프론트엔드 개발자</p>
 
   <h3>⭐ Platforms & Languages ⭐</h3>
 
