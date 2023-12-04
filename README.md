@@ -15,15 +15,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 
-## Most Used Languages
 
-<!-- GitHub Readme Stats를 사용하여 가장 많이 사용된 언어를 표시하세요. -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vue)
 
-## GitHub Stats
 
-<!-- GitHub Readme Stats를 사용하여 GitHub 통계를 표시하세요. -->
-![newt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vue)
+
 
 ### Contacts 📫
 
