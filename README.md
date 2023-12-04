@@ -36,8 +36,8 @@
 ### Contacts 📫
 
 * Github Repo Issue 
-* Twitter DM: @dev_kinetic
-* Email: aheui@kakao.com
+* Instagram DM: @lj_hun
+* Email: wognsl305@naver.com
 
   <!--<div align=center>-->
   
