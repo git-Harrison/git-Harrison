@@ -2,9 +2,6 @@
 
 
 <div align="center">
-  
-# Harrison
-
 ## 👩‍💻 About me
 웹 프론트엔드 개발자
 
