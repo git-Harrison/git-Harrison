@@ -19,8 +19,6 @@
   <!-- 여기에 현재 공부하고 있는 기술에 관련된 배지/아이콘을 추가하세요 -->
   
   <h3>🔧 Tools 🔧</h3>
-## Tools
-
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-143?style=flat-square&logo=phpstorm&logoColor=white)
