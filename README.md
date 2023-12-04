@@ -32,10 +32,14 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 
-</div>
+
 
 ### Contacts 📫
 
 * Github Repo Issue 
 * Instagram DM: @lj_hun
 * Email: wognsl305@naver.com
+
+
+
+</div>
