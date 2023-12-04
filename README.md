@@ -1,6 +1,6 @@
 
 
-# Harrison&nbsp;<img src="https://github.com/wognsl305/wognsl305/blob/main/bg.svg" width="30" height="30%"> [![Hits]([https://hits.seeyoufarm.com/api/count/incr/badge.svg](https://github.com/wognsl305/wognsl305/blob/main/bg.svg)?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+# Harrison&nbsp;
 
 ![header](https://github.com/wognsl305/wognsl305/blob/main/bg.svg)
 
