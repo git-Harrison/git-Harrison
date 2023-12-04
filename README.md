@@ -24,8 +24,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-143?style=flat-square&logo=phpstorm&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 
 
