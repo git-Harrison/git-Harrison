@@ -12,8 +12,7 @@
   스타일드 컴포넌트로 직접적인 관심이 많습니다.</p>
 
   <h3>⭐ Platforms & Languages ⭐</h3>
-  <!-- 아이콘 배지를 사용하려면, 아래와 같이 이미지 링크를 사용하세요. -->
-  
+
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/Guide/HTML/HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -26,11 +25,12 @@
   
   
   <h3>📚 Studying</h3>
-  <!-- 여기에 현재 공부하고 있는 기술에 관련된 배지/아이콘을 추가하세요 -->
+  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
   
   <h3>🔧 Tools 🔧</h3>
 
-  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-143?style=flat-square&logo=phpstorm&logoColor=white)
@@ -38,8 +38,6 @@
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
 
-
-  
 </div>
 
 ### Contacts 📫
