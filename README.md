@@ -1,9 +1,6 @@
 
 # Harrison&nbsp;
 
-![header](https://github.com/wognsl305/wognsl305/blob/main/bg.svg)
-
-
 <div align="center">
   <h2>👩‍💻 About me</h2>
   <p>웹 프론트엔드 개발자</p>
@@ -42,9 +39,3 @@
 * Github Repo Issue 
 * Instagram DM: @lj_hun
 * Email: wognsl305@naver.com
-
-  <!--<div align=center>-->
-  
-
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
