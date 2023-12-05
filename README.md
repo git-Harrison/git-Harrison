@@ -46,9 +46,7 @@ Instagram DM: @lj_hun <br>
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Harrison)](https://solved.ac/git-Harrison)
-
-![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true)
+![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=radical)
 
 
 
