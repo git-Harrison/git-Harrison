@@ -6,7 +6,7 @@
 <br>
 
 ### 👩‍💻 About me 
-#### I am using this repository for personal projects and portfolio purposes. I would appreciate it if you could notify me of any issues or provide feedback
+#### I am using this repository for personal projects and portfolio purposes.<br> I would appreciate it if you could notify me of any issues or provide feedback
 
 
 ### ⭐ Skill ⭐
