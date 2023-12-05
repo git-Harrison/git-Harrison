@@ -20,12 +20,12 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<br>
+<br><br>
 
 ### 📚 Studying 📚
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<br>
+<br><br>
 
 ### 🔧 Tools 🔧
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -34,18 +34,15 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
-
-<br>
+<br><br>
 
 ### 📫 Contacts 📫
 #### Github Repo Issue
 Instagram DM: @lj_hun <br>
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
-<br>
+<br><br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-
-
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
