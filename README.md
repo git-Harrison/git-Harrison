@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,7 +8,7 @@
   
 ![header](https://github.com/git-Harrison/git-Harrison/blob/main/header-image.png)
 
-</div>
+
 
 ### 👩‍💻 About me 👩‍💻
 #### I am using this repository for personal projects and portfolio purposes.<br>I would appreciate it if you could notify me of any issues or provide feedback.
@@ -56,5 +56,7 @@ Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 [![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=onedark)](https://github.com/git-Harrison)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_harrison)]((https://velog.io/@dev_harrison/series)https://velog.io/@dev_harrison/series)
+
+</div>
 
 
