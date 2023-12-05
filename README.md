@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/git-Harrison/git-Harrison/blob/main/github-header-image.png" width="846px" />
+<img src="https://github.com/git-Harrison/git-Harrison/blob/main/github-header-img.png" width="846px" />
   
 ### 👩‍💻 About me 
 
