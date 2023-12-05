@@ -4,7 +4,7 @@
 
 </div>
 
-### 👩‍💻 About me 
+### 👩‍💻 About me 👩‍💻
 #### I am using this repository for personal projects and portfolio purposes.<br>I would appreciate it if you could notify me of any issues or provide feedback.
 <br>
 
