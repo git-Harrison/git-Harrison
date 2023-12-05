@@ -1,9 +1,8 @@
 <div align="center">
-
+  
 ![header](https://github.com/git-Harrison/git-Harrison/blob/main/header-image.png)
 
 </div>
-<br>
 
 ### 👩‍💻 About me 
 #### I am using this repository for personal projects and portfolio purposes.<br>I would appreciate it if you could notify me of any issues or provide feedback.
