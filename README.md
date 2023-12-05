@@ -46,6 +46,8 @@ Instagram DM: @lj_hun <br>
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=git-Harrison)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=onedark)
 
 
