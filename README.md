@@ -1,7 +1,6 @@
-![header](https://github.com/git-Harrison/git-Harrison/blob/main/github-header-image.png))
-
-
 <div align="center">
+
+![header](https://github.com/git-Harrison/git-Harrison/blob/main/github-header-image.png))
   
 ### 👩‍💻 About me 
 
