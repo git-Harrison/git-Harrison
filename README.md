@@ -42,13 +42,12 @@ Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
 
 <div align="right">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=Harrison)](https://solved.ac/git-Harrison)
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true)
-  
+
 </div>
 
 
