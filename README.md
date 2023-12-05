@@ -7,7 +7,7 @@
 
 ### 👩‍💻 About me 
 #### I am using this repository for personal projects and portfolio purposes.<br>I would appreciate it if you could notify me of any issues or provide feedback.
-
+<br><br>
 
 ### ⭐ Skill ⭐
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
