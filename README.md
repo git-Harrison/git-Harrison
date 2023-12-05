@@ -1,4 +1,4 @@
-![header]([https://github.com/wognsl305/wognsl305/blob/main/bg.svg](https://github.com/git-Harrison/git-Harrison/blob/main/github-header-image.png))
+![header](https://github.com/git-Harrison/git-Harrison/blob/main/github-header-image.png))
 
 
 <div align="center">
