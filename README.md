@@ -38,6 +38,10 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white)
+![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/-HeidiSQL-9E532E?style=flat-square&logo=heidisql&logoColor=white)
+![PuTTY](https://img.shields.io/badge/-PuTTY-669999?style=flat-square&logo=putty&logoColor=white)
+![Git Bash](https://img.shields.io/badge/-GitBash-5391FE?style=flat-square&logo=gitbash&logoColor=white)
 <br><br>
 
 ### 📫 Contacts 📫
