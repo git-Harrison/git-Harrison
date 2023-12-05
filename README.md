@@ -46,9 +46,9 @@ Instagram DM: @lj_hun <br>
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
 
-[![Harrison GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=git-Harrison&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/git-Harrison)
+[![Harrison GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=git-Harrison&repo=ReactProject&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/git-Harrison)
 
-[![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&repo=ReactProject&show_icons=true&theme=onedark)](https://github.com/git-Harrison)
+[![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=onedark)](https://github.com/git-Harrison)
 
 
 
