@@ -48,7 +48,7 @@
 
 ### 📫 Contacts 📫
 #### Github Repo Issue
-Instagram DM: @lj_hun <br>
+Instagram DM: [lj_hun](https://www.instagram.com/lj_hun/) <br>
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
 
