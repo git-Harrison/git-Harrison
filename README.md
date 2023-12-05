@@ -8,6 +8,7 @@
   
 ![header](https://github.com/git-Harrison/git-Harrison/blob/main/header-image.png)
 
+</div>
 
 
 ### 👩‍💻 About me 👩‍💻
@@ -56,7 +57,5 @@ Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 [![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=onedark)](https://github.com/git-Harrison)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_harrison)]((https://velog.io/@dev_harrison/series)https://velog.io/@dev_harrison/series)
-
-</div>
 
 
