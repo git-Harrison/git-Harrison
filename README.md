@@ -1,4 +1,13 @@
+<div align="right">
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 <div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
 ![header](https://github.com/git-Harrison/git-Harrison/blob/main/header-image.png)
 
@@ -43,11 +52,5 @@ Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 [![Harrison GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=git-Harrison&repo=ReactProject&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/git-Harrison)
 
 [![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=onedark)](https://github.com/git-Harrison)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgit-Harrison&count_bg=%23636366&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitor+Count&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-
-
-
 
 
