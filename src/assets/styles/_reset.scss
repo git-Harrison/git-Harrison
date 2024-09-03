@@ -1,0 +1,25 @@
+$bg-color-light: #ffffff;
+$bg-color-dark: #000000;
+$text-color-light: #000000;
+$text-color-dark: #ffffff;
+
+body {
+    background-color: $bg-color-light;
+    color: $text-color-light;
+}
+
+[data-theme='dark'] {
+    body {
+        background-color: $bg-color-dark;
+        color: $text-color-dark;
+    }
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+}
