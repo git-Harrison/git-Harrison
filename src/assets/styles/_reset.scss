@@ -1,25 +1,26 @@
-$bg-color-light: #ffffff;
-$bg-color-dark: #000000;
-$text-color-light: #000000;
-$text-color-dark: #ffffff;
-
-body {
-    background-color: $bg-color-light;
-    color: $text-color-light;
+body,
+div,
+ul,
+li,
+ol,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+textarea,
+p,
+select,
+button,
+figure {
+    margin: 0;
+    padding: 0;
 }
 
-[data-theme='dark'] {
-    body {
-        background-color: $bg-color-dark;
-        color: $text-color-dark;
-    }
-}
-
-h1 {
-    font-size: 48px;
-}
-
-p {
-    font-size: 18px;
-    font-weight: bold;
-}

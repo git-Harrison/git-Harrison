@@ -1,12 +1,14 @@
 {
   "compilerOptions": {
-    "target": "es6",  // 또는 "esnext"
+    "target": "es6",
     "lib": [
       "dom",
       "dom.iterable",
       "esnext"
     ],
     "allowJs": true,
+    "typeRoots": ["./node_modules/@types"],
+    "types": ["tsparticles", "react-tsparticles"],
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,

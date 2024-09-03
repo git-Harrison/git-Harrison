@@ -1,8 +1,11 @@
-import {useState, useEffect} from 'react';
-import {ThemeContextType} from '../types/themeTypes';
+import { useState, useEffect } from 'react';
+import { ThemeContextType } from '../types/themeTypes';
 
 const useTheme = (): ThemeContextType => {
-    const [isDarkMode, setIsDarkMode] = useState<boolean>(false);
+    const [isDarkMode, setIsDarkMode] = useState<boolean>(() => {
+        const savedTheme = localStorage.getItem('theme');
+        return savedTheme === 'dark';
+    });
 
     useEffect(() => {
         const savedTheme = localStorage.getItem('theme');
@@ -14,12 +17,12 @@ const useTheme = (): ThemeContextType => {
 
     const toggleTheme = () => {
         const newTheme = isDarkMode ? 'light' : 'dark';
-        setIsDarkMode(!isDarkMode);
+        setIsDarkMode(prevMode => !prevMode);
         localStorage.setItem('theme', newTheme);
         document.documentElement.setAttribute('data-theme', newTheme);
     };
 
-    return {isDarkMode, toggleTheme};
+    return { isDarkMode, toggleTheme };
 };
 
 export default useTheme;
