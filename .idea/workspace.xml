@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb577312-44b7-4a16-8529-d6c90515107b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/git-Harrison/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/header-image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/App.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/assets/styles/_common.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/assets/styles/_main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/assets/styles/_reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/components/organisms/MainPage.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/components/organisms/ParticleBackground.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/hooks/useTheme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/react-app-env.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/reportWebVitals.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/routes/AppRoutes.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/setupTests.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/types/themeTypes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/src/types/tsparticles.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/git-Harrison/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,23 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "list.type.of.created.stylesheet": "SCSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "watcher.settings",
-    "ts.external.directory.path": "C:\\leejaehun\\git-Harrison\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\leejaehun\\git-Harrison\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\leejaehun\git-Harrison\src" />
