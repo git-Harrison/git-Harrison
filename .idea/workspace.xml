@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb577312-44b7-4a16-8529-d6c90515107b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/git-Harrison/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/header-image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/assets/styles/_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/assets/styles/_main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/assets/styles/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/components/organisms/MainPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/components/organisms/ParticleBackground.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/hooks/useTheme.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/routes/AppRoutes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/types/themeTypes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/src/types/tsparticles.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-Harrison/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lXgSUC89WJhFgCsrbG10Ym5YLp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "C:\\leejaehun\\git-Harrison\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\leejaehun\git-Harrison\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb577312-44b7-4a16-8529-d6c90515107b" name="Changes" comment="" />
+      <created>1725331834927</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725331834927</updated>
+      <workItem from="1725331835959" duration="1478000" />
+      <workItem from="1725333368045" duration="11739000" />
+      <workItem from="1725348962911" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

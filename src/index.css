@@ -1,0 +1,73 @@
+body,
+div,
+ul,
+li,
+ol,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+form,
+fieldset,
+legend,
+textarea,
+p,
+select,
+button,
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+.main-page {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+.main-page.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+}
+.main-page.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.header .title {
+  font-size: 48px;
+}
+.header .subtitle {
+  font-size: 24px;
+}
+.header .theme-toggle {
+  margin-top: 20px;
+  padding: 10px;
+  cursor: pointer;
+  background: transparent;
+  border: 1px solid;
+  color: inherit;
+}
+
+.main-content {
+  margin-top: 20px;
+}
+.main-content .author,
+.main-content .institution {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=index.css.map */
