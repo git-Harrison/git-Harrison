@@ -52,7 +52,7 @@ Instagram DM: [lj_hun](https://www.instagram.com/lj_hun/) <br>
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_harrison)]((https://velog.io/@dev_harrison/series)https://velog.io/@dev_harrison/series)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_harrison)](https://velog.io/@dev_harrison/series)
 
 [![Harrison GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=git-Harrison&repo=ReactProject&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/git-Harrison)
 
