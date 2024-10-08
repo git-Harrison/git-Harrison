@@ -53,9 +53,11 @@ Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dev_harrison)](https://velog.io/@dev_harrison/series)
 
-[![Harrison GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=git-Harrison&repo=mancity&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/git-Harrison)
+[![Harrison GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Harrison&repo=mancity&langs_count=10&layout=compact&theme=dark&show_icons=true)](https://github.com/git-Harrison/mancity)
 
-[![Harrison github stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&show_icons=true&theme=onedark)](https://github.com/git-Harrison)
+
+[![Harrison GitHub repo stats](https://github-readme-stats.vercel.app/api/pin/?username=git-Harrison&repo=mancity&theme=onedark)](https://github.com/git-Harrison/mancity)
+
 
 
 
