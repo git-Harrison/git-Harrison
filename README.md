@@ -8,10 +8,13 @@
   
 ![header](https://github.com/git-Harrison/git-Harrison/blob/main/header-image.png)
 
+[![Harrison GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=git-Harrison&repo=mancity&theme=dark)](https://github.com/git-Harrison/mancity)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Harrison&repo=mancity&layout=compact&theme=dark)](https://github.com/git-Harrison/mancity)
+
 </div>
 
-[![Harrison GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=git-Harrison&repo=mancity&theme=dark)](https://github.com/git-Harrison/mancity)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Harrison&repo=mancity&layout=compact&theme=dark)](https://github.com/git-Harrison/mancity)
+
 
 ### 👩‍💻 About me 👩‍💻
 #### I am using this repository for personal projects and portfolio purposes.<br>I would appreciate it if you could notify me of any issues or provide feedback.
