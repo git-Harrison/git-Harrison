@@ -10,6 +10,8 @@
 
 </div>
 
+[![Harrison GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=git-Harrison&repo=mancity&theme=dark)](https://github.com/git-Harrison/mancity)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Harrison&repo=mancity&layout=compact&theme=dark)](https://github.com/git-Harrison/mancity)
 
 ### 👩‍💻 About me 👩‍💻
 #### I am using this repository for personal projects and portfolio purposes.<br>I would appreciate it if you could notify me of any issues or provide feedback.
@@ -50,10 +52,6 @@
 #### Github Repo Issue
 Email: [wognsl305@naver.com](mailto:wognsl305@naver.com)
 <br><br>
-
-[![Harrison GitHub Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=git-Harrison&repo=mancity&theme=dark)](https://github.com/git-Harrison/mancity)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-Harrison&repo=mancity&layout=compact&theme=dark)](https://github.com/git-Harrison/mancity)
 
 [![Harrison GitHub stats](https://github-readme-stats.vercel.app/api?username=git-Harrison&repo=mancity&show_icons=true&theme=dark&count_private=true)](https://github.com/git-Harrison/mancity)
 
