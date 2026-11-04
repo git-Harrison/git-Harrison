@@ -32,20 +32,7 @@
 > 모델은 엔진이고, 하네스는 차체입니다. 좋은 결과는 **역할·도구·가드레일**을 어떻게 짜느냐에서 나옵니다.
 > 제 하네스는 **Claude Code** 위에 만들어져 있습니다.
 
-```mermaid
-flowchart LR
-    REQ(["요청"]) --> ORC{{"Orchestrator<br/>Claude Code main session"}}
-    ORC -->|"간단 수정·버그"| DEV
-    ORC -->|"신규 기능"| PLAN["Planner / Architect<br/>Opus · Fable"]
-    PLAN --> UX["UX Designer<br/>benchmark → design doc"]
-    UX --> DEV["Developer<br/>Sonnet · typecheck/lint"]
-    DEV --> REV["Reviewer<br/>design fidelity + code review"]
-    REV -->|"CHANGES"| DEV
-    REV -->|"UX gap"| UX
-    REV -->|"PASS"| HUMAN(["사람이 확인 후 머지"])
-    MCP[("MCP servers<br/>read-only · audited")] -.-> PLAN
-    MCP -.-> DEV
-```
+<p align="center"><img src="./assets/agent-harness.svg" alt="Agent pipeline: Orchestrator → Planner/Architect → UX Designer → Developer → Reviewer, with CHANGES/UX-gap loops, MCP servers (read-only, audited), and a human merge gate" width="100%" /></p>
 
 | Layer | 구성 |
 |---|---|
